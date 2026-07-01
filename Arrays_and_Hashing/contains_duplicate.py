@@ -15,5 +15,5 @@ result = containsDuplicat(nums)
 print(result)  # Output: True
 
 # Time Complexity: O(N), where N is the number of elements in the input list. We iterate through the list once, and each lookup in the set takes O(1) time on average.
-# Space Complexity: O(N), where N is the number of elements in the input list.
+# Space Complexity: O(N), where N is the number of elements in the input list.              
 
